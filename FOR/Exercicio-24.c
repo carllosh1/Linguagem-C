@@ -1,9 +1,9 @@
-//Faça um algoritmo para o “jogo de adivinhar um número”, mas invertendo
-//os papéis desta vez. O computador que vai tentar adivinhar um número
-//escolhido pelo usuário. O usuário deve escolher um número e para cada
-//número apresentado pelo computador, responder se ele acertou, ou se o
-//número apresentado é maior que o escolhido, ou se ele é menor que o
-//escolhido. O algoritmo termina quando o usuário responder que o
+//FaÃ§a um algoritmo para o â€œjogo de adivinhar um nÃºmeroâ€, mas invertendo
+//os papÃ©is desta vez. O computador que vai tentar adivinhar um nÃºmero
+//escolhido pelo usuÃ¡rio. O usuÃ¡rio deve escolher um nÃºmero e para cada
+//nÃºmero apresentado pelo computador, responder se ele acertou, ou se o
+//nÃºmero apresentado Ã© maior que o escolhido, ou se ele Ã© menor que o
+//escolhido. O algoritmo termina quando o usuÃ¡rio responder que o
 //computador acertou.
 
 #include <stdio.h>
