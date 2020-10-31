@@ -1,5 +1,5 @@
-//Escreva um algoritmo que leia um número N que indica quantos valores
-//devem ser lidos a seguir. Para cada número lido mostre como resultado o
+//Escreva um algoritmo que leia um nÃºmero N que indica quantos valores
+//devem ser lidos a seguir. Para cada nÃºmero lido mostre como resultado o
 //valor lido e o fatorial deste valor.
 
 #include <stdio.h>
