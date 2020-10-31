@@ -1,5 +1,5 @@
-//Construir um algoritmo que calcule a mÈdia de 100000 valores inteiros
-//positivos, lidos externamente. O final da leitura acontecer· quando for lido
+//Construir um algoritmo que calcule a m√©dia de 100000 valores inteiros
+//positivos, lidos externamente. O final da leitura acontecer√° quando for lido
 //um valor negativo.
 
 #include <stdio.h>
