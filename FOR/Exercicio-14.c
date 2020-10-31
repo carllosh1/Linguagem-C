@@ -1,6 +1,6 @@
-//Uma empresa com X funcion·rios precisa saber a mÈdia de seus sal·rios.
-//FaÁa um algoritmo para ler a quantidade de funcion·rios e o sal·rio de cada
-//um e escrever a mÈdia dos sal·rios.
+//Uma empresa com X funcion√°rios precisa saber a m√©dia de seus sal√°rios.
+//Fa√ßa um algoritmo para ler a quantidade de funcion√°rios e o sal√°rio de cada
+//um e escrever a m√©dia dos sal√°rios.
 
 #include <stdio.h>
 
