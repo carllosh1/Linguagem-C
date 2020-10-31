@@ -1,4 +1,4 @@
-//Faça um algoritmo que leia um número N, some todos os números inteiros de 1 a
+//FaÃ§a um algoritmo que leia um nÃºmero N, some todos os nÃºmeros inteiros de 1 a
 //N, e mostre o resultado obtido.
 
 #include <stdio.h>
