@@ -1,12 +1,12 @@
-//Faça um algoritmo para o “jogo de adivinhar um número”. O computador
-//deve sortear um número entre 0 e 100 e pedir para o usuário tentar
-//adivinhar este número. O usuário vai dizer o seu palpite, e o computador
-//deve responder, se ele é maior ou menor que o número que ele sorteou. O
-//algoritmo termina somente quando o usuário acertar exatamente qual o
-//número que o computador tinha sorteado, escrevendo uma mensagem de
-//felicitações para o nosso usuário e indicando o número total de tentativas
-//feitas. Dica: para gerar um número qualquer entre 0 e 100, use a função
-//RandI( limite) - Retorna um número inteiro gerado aleatoriamente, maior ou
+//FaÃ§a um algoritmo para o â€œjogo de adivinhar um nÃºmeroâ€. O computador
+//deve sortear um nÃºmero entre 0 e 100 e pedir para o usuÃ¡rio tentar
+//adivinhar este nÃºmero. O usuÃ¡rio vai dizer o seu palpite, e o computador
+//deve responder, se ele Ã© maior ou menor que o nÃºmero que ele sorteou. O
+//algoritmo termina somente quando o usuÃ¡rio acertar exatamente qual o
+//nÃºmero que o computador tinha sorteado, escrevendo uma mensagem de
+//felicitaÃ§Ãµes para o nosso usuÃ¡rio e indicando o nÃºmero total de tentativas
+//feitas. Dica: para gerar um nÃºmero qualquer entre 0 e 100, use a funÃ§Ã£o
+//RandI( limite) - Retorna um nÃºmero inteiro gerado aleatoriamente, maior ou
 //igual a zero e menor que limite
 
 #include <stdio.h>
