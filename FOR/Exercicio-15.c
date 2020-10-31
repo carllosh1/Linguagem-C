@@ -1,4 +1,4 @@
-//Ler um número inteiro n. Escrever a soma de todos os números de 1 até n.
+//Ler um nÃºmero inteiro n. Escrever a soma de todos os nÃºmeros de 1 atÃ© n.
 
 #include <stdio.h>
 
