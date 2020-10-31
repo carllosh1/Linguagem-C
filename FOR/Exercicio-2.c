@@ -1,6 +1,6 @@
 //Escreva um algoritmo que leia o nome, idade e sexo de 10000 pessoas
-//finalizando a digitação quando o nome for igual a espaço. Mostrar o total de
-//pessoas digitadas, o percentual de homens e de mulheres, a média de idade
+//finalizando a digitaÃ§Ã£o quando o nome for igual a espaÃ§o. Mostrar o total de
+//pessoas digitadas, o percentual de homens e de mulheres, a mÃ©dia de idade
 //e o nome e idade da pessoa mais velha e da pessoa mais nova.
 
 
