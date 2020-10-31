@@ -1,7 +1,7 @@
-//Fazer um algoritmo que calcule e exiba na tela o fatorial de um n˙mero fornecido
-//pelo usu·rio, usando o comando ìrepitaî. Perguntar ao usu·rio se ele deseja
-//calcular o fatorial de outro n˙mero e repetir a execuÁ„o do algoritmo tantas vezes
-//quantas o usu·rio indicar.
+//Fazer um algoritmo que calcule e exiba na tela o fatorial de um n√∫mero fornecido
+//pelo usu√°rio, usando o comando ‚Äúrepita‚Äù. Perguntar ao usu√°rio se ele deseja
+//calcular o fatorial de outro n√∫mero e repetir a execu√ß√£o do algoritmo tantas vezes
+//quantas o usu√°rio indicar.
 #include <stdio.h>
 
 int i,n, fat;
@@ -19,7 +19,7 @@ int main(){
 			printf("FATORIAL: %d", fat);
 		}else 
 		if(n < 0){
-			printf("\nN√O EXISTE FATORIAL DE NUMERO NEGATIVO");
+			printf("\nN√ÉO EXISTE FATORIAL DE NUMERO NEGATIVO");
 		}else 
 		if(n>16){
 			printf("\nNUMERO MUITO GRANDE PARA SER CALCULADO");
