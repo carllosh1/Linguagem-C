@@ -1,6 +1,6 @@
-//Escreva um algoritmo que leia 90000 números e conte quantos deles estão
+//Escreva um algoritmo que leia 90000 nÃºmeros e conte quantos deles estÃ£o
 //nos seguintes intervalos: (0 a 25), (26 a 50), (51 a 75), (76 a 100). A entrada
-//de dados deve terminar quando for lido um número negativo.
+//de dados deve terminar quando for lido um nÃºmero negativo.
 
 #include <stdio.h>
 
