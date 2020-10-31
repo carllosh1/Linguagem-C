@@ -1,7 +1,7 @@
-//Escrever um algoritmo que calcule todos os n˙meros inteiros divisÌveis por
-//um certo valor indicado pelo usu·rio, e compreendidos em um intervalo
-//tambÈm especificado pelo usu·rio. O usu·rio deve entrar com um primeiro
-//valor correspondente ao divisor e apÛs ele vai fornecer o valor inicial do
+//Escrever um algoritmo que calcule todos os n√∫meros inteiros divis√≠veis por
+//um certo valor indicado pelo usu√°rio, e compreendidos em um intervalo
+//tamb√©m especificado pelo usu√°rio. O usu√°rio deve entrar com um primeiro
+//valor correspondente ao divisor e ap√≥s ele vai fornecer o valor inicial do
 //intervalo, seguido do valor final deste intervalo. Usar o comando While.
 
 #include <stdio.h>
