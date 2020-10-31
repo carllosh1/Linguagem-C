@@ -1,4 +1,4 @@
-//Faça um algoritmo para ler um valor X e calcular Y =
+//FaÃ§a um algoritmo para ler um valor X e calcular Y =
 //X+2X+3X+4X+5X+...+20X.
 
 #include <stdio.h>
