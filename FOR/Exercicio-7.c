@@ -1,8 +1,8 @@
 //Escreva um algoritmo que leia um conjunto de 50 registros contendo, cada
 //uma delas, a altura e o sexo de uma pessoa, calcule e mostre o seguinte:
 //a) a maior e a menor altura da turma
-//b) a média da altura das mulheres
-//c) a média da altura da turma.
+//b) a mÃ©dia da altura das mulheres
+//c) a mÃ©dia da altura da turma.
 //d) A maior e a menor altura dos homens
 
 
@@ -16,8 +16,8 @@ maenor_altura_mulher=0, soma_altura_feminina=0, media_altura_mulher=0;
 char   sexo;
 
 //a maior e a menor altura da turma//
-//b) a média da altura das mulheres///
-//c) a média da altura da turma.
+//b) a mÃ©dia da altura das mulheres///
+//c) a mÃ©dia da altura da turma.
 //d) A maior e a menor altura dos homens
 
 int main(){
