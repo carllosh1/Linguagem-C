@@ -1,8 +1,8 @@
-//Faça um algoritmo que receba dois números X e Y, sendo X < Y. Calcule e
+//FaÃ§a um algoritmo que receba dois nÃºmeros X e Y, sendo X < Y. Calcule e
 //mostre:
-//• a soma dos números pares desse intervalo de números, incluindo os
-//números digitados;
-//• a multiplicação dos números ímpares desse intervalo, incluindo os
+//â€¢ a soma dos nÃºmeros pares desse intervalo de nÃºmeros, incluindo os
+//nÃºmeros digitados;
+//â€¢ a multiplicaÃ§Ã£o dos nÃºmeros Ã­mpares desse intervalo, incluindo os
 //digitados;
 
 #include <stdio.h>
