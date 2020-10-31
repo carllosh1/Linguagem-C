@@ -1,6 +1,6 @@
-//FaÁa um algoritmo para ler e escrever o Nome, idade e sexo de 90000
+//Fa√ßa um algoritmo para ler e escrever o Nome, idade e sexo de 90000
 //estudantes. Ao final escreva o total de alunos lidos. O final da leitura
-//acontecer· quando for lido o valor zero.
+//acontecer√° quando for lido o valor zero.
 
 #include <stdio.h>
 #include <string.h>
