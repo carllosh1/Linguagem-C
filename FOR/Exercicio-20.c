@@ -1,9 +1,9 @@
-//Faça um algoritmo que, para um número indeterminado de pessoas: leia a
-//idade de cada uma, sendo que a idade 0 (zero) indica o fim da leitura e não
+//FaÃ§a um algoritmo que, para um nÃºmero indeterminado de pessoas: leia a
+//idade de cada uma, sendo que a idade 0 (zero) indica o fim da leitura e nÃ£o
 //deve ser considerada. A seguir calcule:
-//• o número de pessoas;
-//• a idade média do grupo;
-//• a menor idade e a maior idade.
+//â€¢ o nÃºmero de pessoas;
+//â€¢ a idade mÃ©dia do grupo;
+//â€¢ a menor idade e a maior idade.
 
 #include <stdio.h>
 
