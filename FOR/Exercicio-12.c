@@ -1,5 +1,5 @@
-//Faça um algoritmo para ler N números inteiros e ao final escrever sua
-//média. O valor de N será informado pelo usuário.
+//FaÃ§a um algoritmo para ler N nÃºmeros inteiros e ao final escrever sua
+//mÃ©dia. O valor de N serÃ¡ informado pelo usuÃ¡rio.
 
 #include <stdio.h>
 
