@@ -39,25 +39,3 @@ int main(){
 		printf("\nSoma das idades: %i", somaIdade);
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
