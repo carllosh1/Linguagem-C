@@ -1,7 +1,7 @@
-// Fazer um algoritmo que calcule e exiba na tela o fatorial de um n˙mero
-//fornecido pelo usu·rio, usando o comando While. Repetir a execuÁ„o do
-//algoritmo tantas vezes quantas o usu·rio quiser. Lembre-se que o resultado
-//do c·lculo de um fatorial pode ser um n˙mero ìgrandeî (Exemplo: Fatorial
+// Fazer um algoritmo que calcule e exiba na tela o fatorial de um n√∫mero
+//fornecido pelo usu√°rio, usando o comando While. Repetir a execu√ß√£o do
+//algoritmo tantas vezes quantas o usu√°rio quiser. Lembre-se que o resultado
+//do c√°lculo de um fatorial pode ser um n√∫mero ‚Äúgrande‚Äù (Exemplo: Fatorial
 //de 8 = 40320).
 
 #include <stdio.h>
@@ -23,7 +23,7 @@ int main(){
 			printf("FATORIAL: %d", fat);
 		}else 
 		if(numero < 0){
-			printf("\nN√O EXISTE FATORIAL DE NUMERO NEGATIVO");
+			printf("\nN√ÉO EXISTE FATORIAL DE NUMERO NEGATIVO");
 		}else 
 		if(numero>16){
 			printf("\nNUMERO MUITO GRANDE PARA SER CALCULADO");
