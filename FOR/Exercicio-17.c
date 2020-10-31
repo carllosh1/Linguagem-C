@@ -1,4 +1,4 @@
-//Ler um número inteiro n. Decidir se n é um número primo e apresente o
+//Ler um nÃºmero inteiro n. Decidir se n Ã© um nÃºmero primo e apresente o
 //resultado.
 
 #include <stdio.h>
