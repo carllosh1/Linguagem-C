@@ -1,9 +1,9 @@
-//Escreva um algoritmo que apresente quatro opções (a) consulta saldo, 
+//Escreva um algoritmo que apresente quatro opÃ§Ãµes (a) consulta saldo, 
 //(b)saque, 
-//(c) depósito e
+//(c) depÃ³sito e
 // (d) sair.
 //  O saldo deve iniciar em R$ 0,00. A cada saque
-//ou depósito o valor do saldo deve ser atualizado.
+//ou depÃ³sito o valor do saldo deve ser atualizado.
 
 #include <stdio.h>
 #include<stdlib.h>
