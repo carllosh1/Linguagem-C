@@ -1,5 +1,5 @@
-//FaÁa um algoritmo que imprima todos os n˙meros inteiros de 1 a N (fornecido
-//pelo usu·rio). Mostre quantos s„o divisÌveis por 8 e tem resto 3
+//Fa√ßa um algoritmo que imprima todos os n√∫meros inteiros de 1 a N (fornecido
+//pelo usu√°rio). Mostre quantos s√£o divis√≠veis por 8 e tem resto 3
 
 #include <stdio.h>
 
