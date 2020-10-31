@@ -1,6 +1,6 @@
-//Escreva um algoritmo que leia dois números, N1 e N2. Como resultado,
-//calcule quantos números ímpares existem entre N1 e N2. Supor que N1 e N2
-//não entram no cálculo.
+//Escreva um algoritmo que leia dois nÃºmeros, N1 e N2. Como resultado,
+//calcule quantos nÃºmeros Ã­mpares existem entre N1 e N2. Supor que N1 e N2
+//nÃ£o entram no cÃ¡lculo.
 
 
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main(){
 	scanf("%i", &n2);
  	system("cls");
 if(n1>n2){
-  printf("NÚMEROS DE N2 A N1:");
+  printf("NÃšMEROS DE N2 A N1:");
   for (x=n2+1; x < n1; x++)
   {
   	
@@ -49,30 +49,4 @@ if(n1>n2){
 printf("\n\nContador de numero pares: %i", par);
 printf("\nContador de numero impares: %i", impar);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
