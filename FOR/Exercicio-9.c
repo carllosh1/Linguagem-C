@@ -1,4 +1,4 @@
-//Faça um algoritmo para somar os números pares positivos < 1000 e ao final
+//FaÃ§a um algoritmo para somar os nÃºmeros pares positivos < 1000 e ao final
 //imprimir o resultado.
 
 #include <stdio.h>
