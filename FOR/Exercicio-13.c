@@ -1,6 +1,6 @@
-//Uma turma possui N alunos, e para cada aluno tem-se uma média para cada
-//disciplina. O professor de Matemática precisa saber a média geral de sua
-//disciplina em uma turma. Faça um algoritmo para auxiliar a encontrar este
+//Uma turma possui N alunos, e para cada aluno tem-se uma mÃ©dia para cada
+//disciplina. O professor de MatemÃ¡tica precisa saber a mÃ©dia geral de sua
+//disciplina em uma turma. FaÃ§a um algoritmo para auxiliar a encontrar este
 //valor.
 
 #include <stdio.h>
