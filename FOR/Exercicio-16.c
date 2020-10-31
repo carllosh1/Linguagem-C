@@ -1,5 +1,5 @@
-//Ler um número inteiro n. Escrever a soma de todos os números pares de 2
-//até n
+//Ler um nÃºmero inteiro n. Escrever a soma de todos os nÃºmeros pares de 2
+//atÃ© n
 
 #include <stdio.h>
 
