@@ -1,8 +1,8 @@
-/*Construir um algoritmo que tenha uma função que calcule o cubo de um
-número inteiro qualquer de forma que esta possa ser usada para resolver os
-seguintes cálculos que serão feitos no algoritmo principal
+/*Construir um algoritmo que tenha uma funÃ§Ã£o que calcule o cubo de um
+nÃºmero inteiro qualquer de forma que esta possa ser usada para resolver os
+seguintes cÃ¡lculos que serÃ£o feitos no algoritmo principal
 ? O volume de uma esfera: 4/3 R3
-? E a equação: x3 + y3 + 2 -> Não tem como calculc*/
+? E a equaÃ§Ã£o: x3 + y3 + 2 -> NÃ£o tem como calculc*/
 
 #include<stdio.h>
 #include<math.h>
@@ -20,19 +20,18 @@ void esfera(){
 	float resultado;
 	printf("Entre com o RAIO da esfera: ");
 	scanf("%f", &raio);
+	
 	printf("Informe PI: ");
 	scanf("%f", &pi);
 	
 }
 
-float calcularEsfera(){
-	
+float calcularVolume(){
 	Volume = cubo(raio) * pi *4 /3;
 	return(Volume);
 }
 
 void equacao(){
-
 	printf("Equacao: x^3 + y^3 + 2 | digite os valores de x e y: ");
 	scanf("%f %f", &x, &y);
 	
@@ -46,8 +45,9 @@ float calcularEquacao(){
 int main(){
 	
 	esfera();
-	calcularEsfera();
+	calcularVolume();
 	printf("O volume eh: %0.2f\n", Volume);
+	
 	printf("\n");
 	
 	equacao();
