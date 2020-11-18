@@ -1,12 +1,12 @@
 /* Crie uma estrutura representando os alunos de um determinado curso. A estrutura deve
 conter a matricula do aluno, nome, nota da primeira prova, nota da segunda prova e nota
 da terceira prova.
-(a) Permita ao usuario entrar com os dados de 5 alunos.  ´
+(a) Permita ao usuario entrar com os dados de 5 alunos.  Â´
 (b) Encontre o aluno com maior nota da primeira prova.
-(c) Encontre o aluno com maior media geral.  ´
-(d) Encontre o aluno com menor media geral  ´
+(c) Encontre o aluno com maior media geral.  Â´
+(d) Encontre o aluno com menor media geral  Â´
 (e) Para cada aluno diga se ele foi aprovado ou reprovado, considerando o valor 6 para
-aprovac ¸ao. */
+aprovac Â¸ao. */
 
 #include <stdio.h>
 #include <string.h>
@@ -67,10 +67,10 @@ int main(){
 	}
 	for(i=0; i<5; i++){
 	
-		if(medianota[i]>5){
-			printf("%i- Aluno: Aprovado\n", i+1);
+		if(medianota[i]>=6){
+			printf("%i- Aluno(a): %s | Resultado: Aprovado\n", i+1, aluno[i].nome);
 		}else{
-			printf("%i- Aluno: Reprovado\n", i+1);
+			printf("%i- Aluno(a): %s | Resultado: Reprovado\n", i+1, aluno[i].nome);
 		}
 	
 	}
